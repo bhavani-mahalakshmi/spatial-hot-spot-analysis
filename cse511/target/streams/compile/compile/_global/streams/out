@@ -1,0 +1,4 @@
+[0m[[0m[33mwarn[0m] [0m[0m/final/Project-1-Group-13/cse511/src/main/scala/SpatialQuery.scala:52:66: comparing values of types Double and Null using `==` will always yield false[0m
+[0m[[0m[33mwarn[0m] [0m[0m    if (pointString1 == null || pointString2 == null || distance == null) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                                 ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
